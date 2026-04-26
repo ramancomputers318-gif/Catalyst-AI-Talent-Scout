@@ -65,4 +65,8 @@ Live Notebook: https://colab.research.google.com/drive/1lDNbn3cYmIuGAETqwGRvlQUZ
 
 Architecture-Diagram: https://drive.google.com/file/d/1b2vGHqzxtvfAQiTHf-1AldJ7WheyFcLy/view?usp=sharing
 
+Inputs Data: https://drive.google.com/file/d/1znsEZsbmc9p5NadL0GLk1LdGwDb8ReXZ/view?usp=sharing
+
+Outputs data: https://drive.google.com/file/d/1ZW6Dbrc9zIh0flyATyC3wh71PmkqrB97/view?usp=sharing
+
 Documentation: README.md
